@@ -1,3 +1,7 @@
+.blog-index .comments {
+    display:none;
+}
+
 article {
   padding-top: 1em;
   a { @extend .force-wrap; }
@@ -80,7 +84,11 @@ article {
       @extend .separator;
     }
   }
-
+  .comment {
+      .content {
+          margin-left:3em;
+      }
+  }
 }
 article + article {
   .blog-index & {
