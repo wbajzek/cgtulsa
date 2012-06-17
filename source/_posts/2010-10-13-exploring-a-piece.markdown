@@ -1,0 +1,9 @@
+---
+layout: post
+title: "exploring a piece"
+date: 2010-10-13T12:32:00-05:00
+---
+
+I'm hanging out in Montana right now, visiting Glacier NP and hanging out with my parents. I brought my guitar, but I've got a lot of projects in the works, so throwing in all the hiking and stuff is limiting my guitar time. So, I decided to pick a piece (Brouwer's Ojos Brujos) that's not long or hard but has some challenges, and explore it. I've played through each voice separately, tried a variety different fingerings for each part of it, ways to play the repeated sections differently, thought about the transitions between sections, etc. As a result, I've gotten most of it memorized without giving any thought to memorizing it, and I've also come up with some unexpected fingerings that help smooth out things I had trouble with and make the melodies sing nicely, too.
+I've enjoyed this approach, just getting to know the piece inside and out before committing it to memory. I suppose that if I needed to work up a piece on a short deadline, this approach may not be the best, but I've been able to learn a lot from it.
+

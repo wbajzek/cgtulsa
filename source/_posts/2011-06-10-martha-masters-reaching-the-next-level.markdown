@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Martha Masters: Reaching the Next Level"
+date: 2011-06-10T05:00:00-05:00
+---
+
+<iframe align="left" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=willisguitabl-20&amp;o=1&amp;p=8&amp;l=bpl&amp;asins=0786679816&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="align: left; height: 245px; padding-right: 10px; padding-top: 5px; width: 131px;"></iframe>Before beginning my video project in April, I went to <a href="http://rosewoodguitar.com/">Rosewood Guitar</a> in Seattle and told their employee Robert that I was looking for some music I could easily work up and record in a day. It had to be fairly straightforward and, almost more importantly, it needed to not require page turns.
+
+
+Robert recommended Martha Masters' book "Reaching the Next Level," because it contained many pieces that met that criteria and also offered thoughtful suggestions before each piece.
+
+
+I bought the book, but I didn't end up using it for my recordings, although I was reminded of the Reginald Smith Brindle pieces by it, for which I already had the sheet music. The music is well-selected, mostly offering pieces which are not likely to be found in other similar books.
+
+
+Masters offers anecdotes throughout the various topics which I found to be refreshingly candid and honest. They help reinforce the idea that as we study and perform music, we should consider all the available input into consideration and make our decisions thoughtfully.
+
+
+I found her recommendations for each piece, as well as her suggestions in general to be great advice. Overall, there is more focus on musical issues than technical, although both are covered. I really respect the author's efforts here as often times these things are not covered, or are if they are covered than the surface is barely scratched.
+
+
+The book is geared towards intermediate players looking to, well, reach the next level although its principals are pretty solid and valuable for players at any level. Realistically, much of it would probably go over the heads of readers who don't have a certain amount of experience under their belts. I wouldn't hesitate to recommend it, though, because anyone who's open to learning could very well find something useful in it. What it comes down to is that this book fills in some of the gaps left by most other instructional materials available.
+
+
+
+PS: I'm more or less settled in in Tulsa now. I've rebuilt <a href="http://william.bajzek.com/">my website</a> and created a new one called <a href="http://www.classicalguitartulsa.com/">Classical Guitar Tulsa</a> which is primarily to advertise my lessons, but I am considering adding a blog to it where I can post info about local classical guitar related events. It's just not yet clear to me how often there **are **any local classical guitar related events to post about...
+
