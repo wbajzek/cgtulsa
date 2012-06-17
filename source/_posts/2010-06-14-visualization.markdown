@@ -5,13 +5,31 @@ date: 2010-06-14T16:17:00-05:00
 ---
 
 This topic comes up an awful lot, and I'm not going to go into too much detail about the process, per se. <a href="http://www.egta.co.uk/content/visualization">Here is a good article on it</a> from Richard Provost's book <a href="http://www.amazon.com/Technique-Practice-Music-Sales-America/dp/096278320X?ie=UTF8&amp;tag=willisguitabl-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">The Art and Technique of Practice</a> to get you started if you don't know what I mean.
+
+
 I've been working on Bach's cello suite #3, and as of a week and a half ago, I considered myself successful in memorizing the whole thing... Which was a nice accomplishment for me, since it's the longest single work I have committed to memory so far with the intention to perform. Well, in anticipation of my lesson last week, I recorded it for my teacher and frankly, it was a bit of a disaster.
+
+
 At first I tried to rationalize it, saying the music is still new to me, and it was first thing in the morning with no warmup, and, being doubtful of the security of my memory, I had the music in front of me "just in case." I didn't put too much stock in the disastrous nature of this recording, because of those factors, but during the lesson it dawned on me that it probably WAS as well as I could have expected to perform it for an audience. There are all sorts of factors going on which can affect a performance, and the reality was that my memory of the piece was not strong enough to pull it off.
+
+
 That's OK, because the performance is still months away, but I decided to accept this wake up call and get to work on it. I have been using a visualization process in which I play through each movement continuously in my head; hearing each note and feeling the correct fingering for each hand, without hesitation. This means that, for the left hand, I try to "feel" shapes, shifts, and stretches, too, even though my hands are not actually moving. And this, I think is the key; I have used visualization techniques before in the past but (and I thank Eloise Ristad's <a href="http://www.amazon.com/Soprano-Her-Head-Right-Side-Up-Performances/dp/0911226214?ie=UTF8&amp;tag=willisguitabl-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">A Soprano on Her Head: Right-Side-Up Reflections on Life and Other Performances</a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=willisguitabl-20&amp;l=btl&amp;camp=213689&amp;creative=392969&amp;o=1&amp;a=0911226214" style="border: medium none ! important; margin: 0px ! important; padding: 0px ! important;" width="1" /><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=willisguitabl-20&amp;l=btl&amp;camp=213689&amp;creative=392969&amp;o=1&amp;a=0911226214" style="border: medium none ! important; margin: 0px ! important; padding: 0px ! important;" width="1" /> for my current understanding of it) now I am adding this specific muscle "pre-memory" aspect with great success. It has hard to say what is actually going on; it is sort of muscle memory, in that I think you need familiarity with the right kinds of motions to do this, but really what you are doing is imagining what it feels like to go through the motions of playing.
+
+
 The big "a ha!" for me was after I went through this process for the entire suite twice, once before bed and a second time after I woke up in the morning but before I got up. I got up, had breakfast, went to my practice room and played the entire suite. At first, it was slightly shaky in the prelude, but soon I fell right into the music and played through the whole thing better than I ever have before.
+
+
 It was not a flawless run-through and I think it would be too much to hope for perfection overnight no matter how many examples the "technique of performance" and similar books use of instantaneous success after a spontaneous insight. Truthfully, I fell a bit short of the "without hesitation" goal even in the visualization process, but that is part of the point; I found where I didn't know the music as well as I should, and was perhaps relying on muscle memory along when playing.
+
+
 The important thing, though, is that with few exceptions, in that run-through I felt like I could trust my body to play do the motions of playing the music correctly, and I felt more free to perform from my imagination rather than my technique. What's more is that I found that I was more relaxed as I played, breathing easily and playing more effortlessly than before. Whether that came from the sense of security, or the fact that it didn't occur to me to visualize being tense, I don't know. :)
+
+
 I felt so good about this experience, that I have made it a primary means of working on the music. My approach now is to work through music like this away from the guitar, reinforcing my memory of the piece until I can play it without hesitation. I do this as close to performance tempo as I can manage without losing sight of the details. When I do play on the guitar, I play through as slowly and deliberately as I need to be sure to do it correctly. If something goes wrong, I go over that section again correctly afterwards on its own and then with surrounding context from the piece.
+
+
 My aim is to do the visualization work and slow practice daily, and play through once at performance tempo after 3-4 times I have played through slowly, to test the process. The process can feel a bit tedious and I think it's important to be able to see and enjoy the progress to maintain the motivation to keep it up.
+
+
 I began this particular experiment last Tuesday, June 8th. I'll report back on how it's going in another week or two.
 

@@ -6,34 +6,63 @@ date: 2010-11-12T11:09:00-06:00
 
 
 > "When working on the exercises, the guitarist must keep in mind the  fact that mechanical repetition is worthless. Every time an exercise is  repeated one must consciously correct and/or improve upon the previous  playing." 
-
 > 
-
-> - Ricardo Iznaola, <a href="http://www.amazon.com/Kitharologus-Path-Virtuosity-Ricardo-Iznaola/dp/0786617748?ie=UTF8&amp;tag=willisguitabl-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">Kitharalogus</a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=willisguitabl-20&amp;l=btl&amp;camp=213689&amp;creative=392969&amp;o=1&amp;a=0786617748" style="border: medium none ! important; margin: 0px ! important; padding: 0px ! important;" width="1" />
+> -Ricardo Iznaola, <a href="http://www.amazon.com/Kitharologus-Path-Virtuosity-Ricardo-Iznaola/dp/0786617748?ie=UTF8&amp;tag=willisguitabl-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">Kitharalogus</a>  
 
 
 > "Practicing without thinking about what we’re doing prepares us for real world performance conditions, where we often have to work on automatic pilot mode, especially at the technical level. 
-
+>
 > I thought I was the only one doing this until a guitarist (and a famous one too, who will remain anonymous) came to visit Corpus Christi. When I went to the hotel to pick him up for the concert, I was surprised to hear, behind the door, intense practicing with the TV at full blast."
+>
+> -Philip Hii, <a href="http://philiphii.com/aovguitar/">Art of Virtuosity for Guitar book</a>
 
-> - Philip Hii, <a href="http://philiphii.com/aovguitar/">Art of Virtuosity for Guitar book</a>
+
 Both of these seemingly opposite schools of thought have their adamant supporters, and both have produced stellar musicians. How can that happen?
+
+
 People are all different and some learn differently, but let's face it, not much about playing any instrument is particularly  natural. Sure, some people take to it easier than others and we can use  principles of nature to guide our efforts, but when it comes right down  to it, everything we do is a learned adaptation to the requirements of  the instrument. It will take time to develop. 
+
+
 Some will argue that 'mindless repetition' may not be taking the quickest path, and you are also perhaps running the risk of developing bad habits. But by letting your muscles figure things out on their own and leaving your mind out of it, you are cultivating the ability to play instinctively rather than calculatedly. 
+
+
 Iznaola's recommendation, on the other hand, can easily lead to <a href="http://www.frankmsheldon.com/blog/files/alexander-technique-end-gaining.html">end-gaining</a>, which is often difficult to see until you're already mired in it. That doesn't mean the approach doesn't work, but I know that I tend to get obsessive about things and am prone to end-gaining, and I think that's why I have had mixed success with it.
+
+
 Given the examples of success, I conclude that both approaches are valid and have their place, but perhaps aren't equally suited to everyone. 
+
+
 **Efficiency IS Important**
+
+
 I'm not advocating wasting your time, and there are clearly times when efficiency is key. For example, the faster and more completely you understand a piece of music, the quicker and easier it should be to learn correctly. Having a secure and well-rounded technique will allow you to focus on the musical aspects of it without getting distracted by the technical side. That is efficient.
+
+
 All the individual elements of your technique should be as efficient as possible, too. No wasted motion, no stumbling, and no delay as you prepare. While a thorough understanding of the ins and outs of technique is a great start, it offers little advantage until you put in the time imprinting the motions into your muscle memory so they  become absolutely instinctive.
+
+
 **How long does it really take?**
+
+
 When  I was working as a software engineer, the only times I could get a  two-hour task done in two hours was when I had no interruptions. A ten  minute interruption didn't make that task take two hours and ten  minutes, it made it more like three hours, because of the distraction,  the context-switching, and getting back into the groove.
+
+
 So  if a technique on the guitar is going to take 10 ideal-world hours to  learn, the more time you can focus on it at a time, the sooner you'll  get there. Every interruption will incur some penalty, so maybe doing it  an hour a day will make it take 11-12 days, but doing it 10 minutes a  day will probably take 70-80 days.
+
+
 That is, if you can  stay motivated and interested enough in working on that same thing 10  minutes a day for 70-80 days. If you're like most people, you'll  probably get bored with it, or decide it's good enough for now, and move  on to something else before you've really got it nailed down.
+
+
 **Mindless Repetition**
 
-> One of the things I believe in is practicing in a state of no-mind. You practice without thinking too much about what you’re doing.
 
+> One of the things I believe in is practicing in a state of no-mind. You practice without thinking too much about what you’re doing.
+>
 > - Philip Hii, <a href="http://philiphii.com/aovguitar/">Art of Virtuosity for Guitar book</a> 
+
+
 There's no real shortcut to developing technique. The closest thing to a shortcut is to have a clear sound-picture in your head of what you are trying to achieve, to have a sense of the right way, and guidance from a teacher.
+
+
 Then you need to set your metronome for a speed where you are able to play the exercise/technique comfortably, no matter how slowly that is. Set a timer (I use <a href="http://e.ggtimer.com/">http://e.ggtimer.com/</a>) for 20-30 minutes, or an hour if you can, or even two, and just have at it. Work on one thing at a time and build the muscle memory until you get to the point where your hands just do it for you. You will know recognize that feels like when it happens. And if it doesn't sound right yet, keep at it.
 
