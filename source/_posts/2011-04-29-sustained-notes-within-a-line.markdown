@@ -6,21 +6,15 @@ date: 2011-04-29T05:00:00-05:00
 
 This has come up a few times for me recently, and while it's not an original idea, I thought I'd share it for those who don't know about it.
 
-
 Classical guitar is a rather percussive instrument with quick decay, and often times the music we play has notes written within a line which are far longer than the instrument will actually sustain. Yet, when you hear this music played by a great guitarist (whose expensive guitar may or may not offer an extra millisecond of sustain), the line sounds unbroken.
-
 
 There are tricks for increasing sustain, vibrato can help, but this is what really makes it work. You need to **match the next note to the memory of the attack and tone of the sustained note**. Otherwise, if you accent it too much or too little, you may give the impression that you're starting a new phrase.
 
-
 Also, sometimes (especially in baroque or renaissance music), a voice can disappear for several measures before returning. To my ears, it's particularly effective when, for example, a piece with three voices sounds like they're the same three voices throughout. This doesn't mean there can't be dynamics or variation in the tone color, it's a matter of intention and attention to detail. I noticed this effect a lot with Paul Galbraith's Bach recordings.
-
 
 What it all boils down to is **that you should make a goal of matching the sound your create with the instrument with the intention you've got in your head**. Then you just need to listen a lot to great music and educate your imagination.
 
-
 PS: I've concluded my video project, as I have to finish moving out of my house and am just too busy for the next few days. I will keep posting music I work on periodically, so please subscribe to my Youtube channel.
-
 
 <a href="http://www.youtube.com/view_play_list?p=CCBF8167D9AD5621">Here's a link to the playlist with all 13 videos I made this month.</a>
 

@@ -6,15 +6,11 @@ date: 2010-09-23T16:14:00-05:00
 
 I've been playing Heitor Villa-Lobos's Prelude 3 for about 3 months now. You can hear this morning's recording of it in my previous post; usually I play it twice (as written) but it's a tricky piece to pull off that way. I read a quote recently (I think) from Antigoni Goni, which I can no longer find, where she said something to the effect of, "when part of a piece repeats, just as we are all changed by the passage of time." I think she's a real master of this idea, by the way; I am very fond of her recordings and it sounds to me like she never plays anything the same way twice. Every repeated section has some new facet or insight.
 
-
 Back to Prelude 3. This is an oddly formed piece in which the entire thing repeats, and the second page of it repeats as well; the long pedal segment gets repeated four times if you play it all as written. What is one to do with that?
-
 
 Another interesting thing is that yesterday I sat down with the score and listened to nearly a dozen recordings of it, not a single one plays it exactly as written, rhythmically. Note values are lengthened, shortened, etc, in the extreme. I'm not talking about a little rubato; I mean, sometimes what is written as a half note gets played as an 8th or 16th. Furthermore, if one DOES play it exactly as written, it sounds kind of flat. Some parts sound rushed, others will sound like they come in very late.
 
-
 The question is, what did HVL intend when he wrote it? Did he mean for it to be played so romantically, but wrote it the way he did to make it fit the notational constructs properly? Or has the tradition of playing it romantically overshadowed what's written in the score? Of course, there are segments were, dynamically, many performers do the exact opposite of what the composer calls for, and it's hard to make the case that they are following his intention that way.
-
 
 The point I am getting at is, what's most important? The composer's intention or the performer's own style? I'm not so sure that's even what really matters; I think the most important thing is that the performer is convinced by the interpretation they use and the audience will pick up on that and it will communicate the them. Otherwise, if the performer is unconvinced, how can the audience be?
 

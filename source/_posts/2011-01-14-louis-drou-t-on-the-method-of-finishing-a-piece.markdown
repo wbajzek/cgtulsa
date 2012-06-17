@@ -6,7 +6,6 @@ date: 2011-01-14T05:00:00-06:00
 
 Some food for thought today culled from Louis Drouët's 1830 method for playing the flute. I left the pre-Victorian ESL wording alone, because I find it amusing, but the advice is good:
 
-
 > **On the Method of Finishing a Piece**
 >
 > "The word finish, as employed here, means to bring to perfection. Thus to finish a piece is to labour at it, until it is executed with much purity in the style, as well as neatness in the execution.

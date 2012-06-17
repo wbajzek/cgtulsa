@@ -6,12 +6,9 @@ date: 2012-06-01T20:56:00-05:00
 
 One thing that has always frustrated me about classical guitar is something that many people find to be one of its primary assets. I've lost count of how many times someone has said to me, "oh, I love classical guitar! It's so soothing!"
 
-
 It comes off as a sort of unintentionally back-handed compliment, so I am most surprised when this comes from other musicians whom I feel should know better... It reminds me of a classical radio station in the SF Bay Area, which has the slogan, "Casual. Comfortable. Classical." Because we all know that the reason for all the blood, sweat, and tears that go into composing and performing classical music is to make your morning commute a little less stressful.
 
-
 There are two similar notions I have been pondering, especially today, as I have been at a music teachers' conference in Oklahoma City.
-
 
 * As a guitarist, I must only be interested in guitar stuff. (Guitarist/composer Brad Richter gave a talk and performed a new piece that the music teacher's association commissioned from him. Therefore, since I am a classical guitarist, this must be the only reason I am here.)
 * It is surprising that I may find presentations interesting even if they do not involve the guitar.

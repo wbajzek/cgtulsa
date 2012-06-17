@@ -8,7 +8,6 @@ I recently ran across the book <a href="http://www.amazon.com/gp/product/0786408
 The highlights or me are the interviews with John Williams, David Starobin, Sharon Isbin, and George Crumb, but the entire book is well worth a read.
 Here are a few things I picked up from the book that I found interesting:
 
-
 * George Crumb has written more for the guitar than I realized. When I was in high school, my friend Len introduced me to Crumb's music, and it opened my eyes to a whole world of music I didn't know existed. I think this is a large part of why I am a classical musician today. I am now determined to perform Crumb's "Mundus Canis" someday.
 * Many of the artists featured in the book play Thomas Humphrey Millenium guitars (or did at the time of the interview).
 * Having ridiculously long fingers, according to Eliot Fisk, is not always an asset when playing guitar. He talks about having to finger some typical open position chords differently because his fingers just get in the way. My thought on this is that we get good by figuring out what works for us, not forcing ourselves into preconceived notions.
