@@ -15,7 +15,7 @@ Watch this:
 **Applying this to classical guitar**
 I've taken La Catedral: Allegro Solemne and prepared the following example. The accent marks show where the metronome should click in relation to the music. The first example is how I typically feel the piece; the next two are a bit harder and then the rest are even** **harder.
 
-<img border="0" height="640" src="http://1.bp.blogspot.com/_dK9SZTXldmc/TUd6WskSKtI/AAAAAAAAACA/eDQxI88qYug/s640/catedral-accents.gif" width="353">
+{% img /images/blog/catedral-accents.png %}
 
 For each one, start by counting out loud so the click lines up with the right beat. Victor demonstrates in the video. For a lot of us that will be a great exercise in and of itself.
 Once you get that going, start playing the example on the "one" and work on it until you are comfortable with the beat placement. Then, if you know the rest of the piece, continue on and see how far you can keep time with the metronome on that beat. Or, apply it to a piece that you do know.

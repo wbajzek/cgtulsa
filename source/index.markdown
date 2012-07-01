@@ -21,3 +21,5 @@ I currently have the following time slots available:
 * Thursdays from 9:15pm-10:15pm
 
 [Email me](mailto:williambajzek@gmail.com?Guitar+lessons) or call (918) 924-5922 to arrange lessons.
+
+{% map 36.101225 -95.972143 %}
