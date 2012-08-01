@@ -14,8 +14,8 @@ aside.sidebar {
     h1 {
       margin: 1.5em 0 0;
       padding-bottom: .2em;
-      border-bottom: 1px solid $sidebar-border;
-      @extend .side-shadow-border;
+/*      border-bottom: 1px solid $sidebar-border;*/
+/*      @extend .side-shadow-border;*/
       + p {
         padding-top: .4em;
       }
@@ -34,8 +34,8 @@ aside.sidebar {
     list-style: none;
     padding: .5em 0;
     margin: 0;
-    border-bottom: 1px solid $sidebar-border;
-    @extend .side-shadow-border;
+/*    border-bottom: 1px solid $sidebar-border;*/
+/*    @extend .side-shadow-border;*/
     p:last-child {
       margin-bottom: 0;
     }

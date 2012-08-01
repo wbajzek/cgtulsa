@@ -6,7 +6,7 @@ sharing: false
 ---
 
 
-I offer classical guitar lessons at my Brookside home in Tulsa, Oklahoma. My current rate is $30 per hour lesson.
+I offer classical guitar lessons at my Brookside home in Tulsa, Oklahoma. I charge $30 per hour lesson.
 
 * Develop your understanding of music
 * Learn efficient guitar technique

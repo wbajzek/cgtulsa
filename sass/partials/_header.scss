@@ -1,5 +1,5 @@
 body > header {
-  background: $header-bg;
+  background: $header-bg url(../images/gtrbg2.jpg);
   h1 {
     display: inline-block;
     margin: 0;
@@ -15,4 +15,5 @@ body > header {
     color: $subtitle-color;
     font-weight: normal;
   }
+  @include single-text-shadow(#000,0px,0px,4px);
 }
