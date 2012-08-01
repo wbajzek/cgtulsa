@@ -97,8 +97,8 @@ body {
 aside.sidebar {
   float: none;
   padding: 0 $pad-min 1px;
-  min-height:620px;
-  background:transparent url(../images/guitarcutout.png) no-repeat scroll right top!important;
+  min-height:820px;
+  background:transparent url(../images/guitarcutout.png) no-repeat scroll right bottom!important;
   
   border-top: 1px solid $sidebar-border;
   @extend .group;

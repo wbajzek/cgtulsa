@@ -119,10 +119,10 @@ function renderDeliciousLinks(items) {
 $.domReady(function() {
   testFeatures();
   wrapFlashVideos();
-  flashVideoFallback();
+//  flashVideoFallback();
   addCodeLineNumbers();
   getNav();
-  addSidebarToggler();
+//  addSidebarToggler();
 });
 
 // iOS scaling bug fix
