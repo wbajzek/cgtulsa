@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Classical Guitar Tulsa]]></title>
-  <link href="http://william.bajzek.com/octo/atom.xml" rel="self"/>
-  <link href="http://william.bajzek.com/octo/"/>
-  <updated>2012-07-31T22:43:15-05:00</updated>
-  <id>http://william.bajzek.com/octo/</id>
+  <link href="http://wbajzek.github.com/cgtulsa/atom.xml" rel="self"/>
+  <link href="http://wbajzek.github.com/cgtulsa/"/>
+  <updated>2012-11-03T19:30:46-05:00</updated>
+  <id>http://wbajzek.github.com/cgtulsa/</id>
   <author>
     <name><![CDATA[William Bajzek]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[A bit of a rant]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2012/06/01/a-bit-of-a-rant/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2012/06/01/a-bit-of-a-rant/"/>
     <updated>2012-06-01T20:56:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2012/06/01/a-bit-of-a-rant</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2012/06/01/a-bit-of-a-rant</id>
     <content type="html"><![CDATA[<p>One thing that has always frustrated me about classical guitar is something that many people find to be one of its primary assets. I&#8217;ve lost count of how many times someone has said to me, &#8220;oh, I love classical guitar! It&#8217;s so soothing!&#8221;</p>
 
 <p>It comes off as a sort of unintentionally back-handed compliment, so I am most surprised when this comes from other musicians whom I feel should know better&#8230; It reminds me of a classical radio station in the SF Bay Area, which has the slogan, &#8220;Casual. Comfortable. Classical.&#8221; Because we all know that the reason for all the blood, sweat, and tears that go into composing and performing classical music is to make your morning commute a little less stressful.</p>
@@ -44,9 +44,9 @@
   
   <entry>
     <title type="html"><![CDATA[Classical Guitarists: Conversations by Jim Tosone]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2012/05/31/classical-guitarists-conversations-by-jim-tosone/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2012/05/31/classical-guitarists-conversations-by-jim-tosone/"/>
     <updated>2012-05-31T16:05:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2012/05/31/classical-guitarists-conversations-by-jim-tosone</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2012/05/31/classical-guitarists-conversations-by-jim-tosone</id>
     <content type="html"><![CDATA[<p>I recently ran across the book <a href="http://www.amazon.com/gp/product/0786408138/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=willisguitabl-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0786408138">&#8220;Classical Guitarists: Conversations&#8221; by Jim Tosone</a> and was surprised I hadn&#8217;t heard about it before. It features interviews with many prominent classical guitarists and composers, and they all go into greater depth than one typically finds in an artist interview.
 The highlights or me are the interviews with John Williams, David Starobin, Sharon Isbin, and George Crumb, but the entire book is well worth a read.
 Here are a few things I picked up from the book that I found interesting:</p>
@@ -62,9 +62,9 @@ Here are a few things I picked up from the book that I found interesting:</p>
   
   <entry>
     <title type="html"><![CDATA[Segovia: El Renacimiento de la Guitarra]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2012/05/24/segovia-el-renacimiento-de-la-guitarra/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2012/05/24/segovia-el-renacimiento-de-la-guitarra/"/>
     <updated>2012-05-24T09:18:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2012/05/24/segovia-el-renacimiento-de-la-guitarra</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2012/05/24/segovia-el-renacimiento-de-la-guitarra</id>
     <content type="html"><![CDATA[<p>An hour long documentary on Segovia. It&#8217;s in Spanish, but features lots of performances.</p>
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/videoseries?list=PL4E51413F557D93C9&amp;hl=en_US" width="560"></iframe>
@@ -76,9 +76,9 @@ Here are a few things I picked up from the book that I found interesting:</p>
   
   <entry>
     <title type="html"><![CDATA[Narvaez: Fantasia played by two guitarists]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2012/04/26/narvaez-fantasia-played-by-two-guitarists/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2012/04/26/narvaez-fantasia-played-by-two-guitarists/"/>
     <updated>2012-04-26T22:06:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2012/04/26/narvaez-fantasia-played-by-two-guitarists</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2012/04/26/narvaez-fantasia-played-by-two-guitarists</id>
     <content type="html"><![CDATA[<p>Here&#8217;s one of my favorite pieces, by my favorite composer, played by two of my favorite guitarists. Enjoy!</p>
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/4_59oV3eAS4" frameborder="0" allowfullscreen></iframe>
@@ -93,9 +93,9 @@ Here are a few things I picked up from the book that I found interesting:</p>
   
   <entry>
     <title type="html"><![CDATA[Matt Palmer]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2012/04/23/matt-palmer/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2012/04/23/matt-palmer/"/>
     <updated>2012-04-23T09:23:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2012/04/23/matt-palmer</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2012/04/23/matt-palmer</id>
     <content type="html"><![CDATA[<p>My wife and I drove four hours each way yesterday to see <a href="http://www.mattpalmerguitar.com/">Matt Palmer</a> perform in Kansas City, MO. My conclusion: it was well worth it! Matt&#8217;s making a name for himself based on his impressive technique, but his tone, phrasing, and timing are wonderfully tasteful.</p>
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/M7v7zPYh37k" frameborder="0" allowfullscreen></iframe>
@@ -107,9 +107,9 @@ Here are a few things I picked up from the book that I found interesting:</p>
   
   <entry>
     <title type="html"><![CDATA[New book by Jean-Francois Desrosby]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2012/04/15/new-book-by-jean-francois-desrosby/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2012/04/15/new-book-by-jean-francois-desrosby/"/>
     <updated>2012-04-15T10:45:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2012/04/15/new-book-by-jean-francois-desrosby</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2012/04/15/new-book-by-jean-francois-desrosby</id>
     <content type="html"><![CDATA[<iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=willisguitabl-20&amp;o=1&amp;p=8&amp;l=as1&amp;asins=2981287826&amp;ref=qf_sp_asin_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="height: 240px; width: 120px; float:left; margin-right:10px"></iframe>
 
 
@@ -126,18 +126,18 @@ Here are a few things I picked up from the book that I found interesting:</p>
   
   <entry>
     <title type="html"><![CDATA[Quick tip for students]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2012/03/30/quick-tip-for-students/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2012/03/30/quick-tip-for-students/"/>
     <updated>2012-03-30T11:14:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2012/03/30/quick-tip-for-students</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2012/03/30/quick-tip-for-students</id>
     <content type="html"><![CDATA[<p>Whenever you have a question for your teacher, write it down, so you don&#8217;t forget it before your next lesson.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Brigitte Zaczec on Baroque lute]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2012/03/10/brigitte-zaczec-on-baroque-lute/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2012/03/10/brigitte-zaczec-on-baroque-lute/"/>
     <updated>2012-03-10T16:17:00-06:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2012/03/10/brigitte-zaczec-on-baroque-lute</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2012/03/10/brigitte-zaczec-on-baroque-lute</id>
     <content type="html"><![CDATA[<p>I just found this very nice video of Brigitte Zaczek on baroque lute. I&#8217;d never heard of her before but was  intrigued because of her last name&#8217;s similarity to my own. I find the interviewer to be a bit creepy, frankly, but I enjoyed the performance and the great footage of her right hand technique. It&#8217;s especially interesting how she uses her right hand thumb to manage the beginning and end of every bass note. We have to do the same thing on guitar, too, but in comparison, we&#8217;ve really got it easy!</p>
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/L6hRmHT0-ZI" frameborder="0" allowfullscreen></iframe>
@@ -152,9 +152,9 @@ Here are a few things I picked up from the book that I found interesting:</p>
   
   <entry>
     <title type="html"><![CDATA[Sound familiar?]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2012/03/06/sound-familiar/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2012/03/06/sound-familiar/"/>
     <updated>2012-03-06T08:06:00-06:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2012/03/06/sound-familiar</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2012/03/06/sound-familiar</id>
     <content type="html"><![CDATA[<iframe width="560" height="315" src="http://www.youtube.com/embed/zZgVRM-GjL4" frameborder="0" allowfullscreen></iframe>
 
 ]]></content>
@@ -162,9 +162,9 @@ Here are a few things I picked up from the book that I found interesting:</p>
   
   <entry>
     <title type="html"><![CDATA[Make your own path]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2012/03/05/make-your-own-path/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2012/03/05/make-your-own-path/"/>
     <updated>2012-03-05T10:22:00-06:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2012/03/05/make-your-own-path</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2012/03/05/make-your-own-path</id>
     <content type="html"><![CDATA[<p>I&#8217;m not sure what made me think of this, but a while back (it must have been a long time, since it has been several months since I removed myself from internet forums in order to enjoy my life more) maybe a year or two I remember someone saying he planned to spend the next year immersing himself in the music of one composer. The responses varied, but I believe the general feeling was that in the interest of being a well-rounded musician, this was not a good idea.</p>
 
 <p>Well, if your goal is to be a well-rounded musician, maybe so. Being a well-rounded musician is a great thing. On the other hand, if the music of Fernando Sor is what gets you out of bed in the morning, I think you should go with it. Cultivate the obsession and learn as much about Sor and as much of his music as you can.</p>
@@ -179,9 +179,9 @@ Here are a few things I picked up from the book that I found interesting:</p>
   
   <entry>
     <title type="html"><![CDATA[Adam Rafferty: This is how I practice guitar]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2012/01/20/adam-rafferty-this-is-how-i-practice-guitar/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2012/01/20/adam-rafferty-this-is-how-i-practice-guitar/"/>
     <updated>2012-01-20T11:35:00-06:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2012/01/20/adam-rafferty-this-is-how-i-practice-guitar</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2012/01/20/adam-rafferty-this-is-how-i-practice-guitar</id>
     <content type="html"><![CDATA[<p>Thanks to my friend <a href="http://www.celticfingerstyleguitar.com/">Anton Emery</a>, I just read fingerstyle guitarist Adam Rafferty&#8217;s <a href="http://adamrafferty.wordpress.com/2012/01/20/this-is-how-i-practice-guitar/">nice blog post about how he practices guitar</a>, in which he says:</p>
 
 <blockquote><p>When I practice, I do it for the love of doing it.  I play my scales every day with attention to “form”, relaxation, groove and tone.  I run my repertoire for the delicacy and delight of playing with a deep satisfying rhythmic pocket and fingers that perfectly “touch” the strings.</p>
@@ -194,9 +194,9 @@ Here are a few things I picked up from the book that I found interesting:</p>
   
   <entry>
     <title type="html"><![CDATA[Holiday break recordings]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2012/01/03/holiday-break-recordings/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2012/01/03/holiday-break-recordings/"/>
     <updated>2012-01-03T09:52:00-06:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2012/01/03/holiday-break-recordings</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2012/01/03/holiday-break-recordings</id>
     <content type="html"><![CDATA[<p>I recorded three videos last week during the holiday break. Having a full-time job again and students in the evenings, I haven&#8217;t had enough practice time to maintain any repertoire. However, I&#8217;ve found that spending an hour in front of the camera is one of the best and quickest ways to improve my playing.</p>
 
 <p>All three pieces are fantasia-type pieces (as opposed to dance movements) from the renaissance era. I just can&#8217;t get enough of this kind of music. The first is one from Frederick Noad&#8217;s &#8220;The Renaissance Guitar&#8221; book. I recorded a few takes of this one on the day after xmas but was unhappy with them. I left them alone for the night and listened again the next day, and decided to feel the piece differently.</p>
@@ -231,9 +231,9 @@ Here are a few things I picked up from the book that I found interesting:</p>
   
   <entry>
     <title type="html"><![CDATA[Los Romeros workshop (part 2): Etudes and repertoire]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2011/11/04/los-romeros-workshop-part-2-etudes-and-repertoire/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2011/11/04/los-romeros-workshop-part-2-etudes-and-repertoire/"/>
     <updated>2011-11-04T05:00:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2011/11/04/los-romeros-workshop-part-2-etudes-and-repertoire</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2011/11/04/los-romeros-workshop-part-2-etudes-and-repertoire</id>
     <content type="html"><![CDATA[<p>I&#8217;m not going to be able to offer a whole lot of detail directly from a workshop I took no notes on, but I will offer a few highlights that I can recall and my own thoughts on those topics.</p>
 
 <p>One idea that has stuck with me from the Los Romeros workshop I attended years ago, was Pepe&#8217;s statement that students develop their technique using studies (specifically mentioning Carcassi, Sor, and Brouwer) and then reward their achievement with appropriate repertoire. This approach depends on having a patient student and some good guidance, but that&#8217;s nothing unusual, is it?
@@ -249,9 +249,9 @@ I think he has a fair point. Etudes may not be &#8220;appropriate for the concer
   
   <entry>
     <title type="html"><![CDATA[Pittsburgh Classical Guitar Society, and a Los Romeros workshop (part 1)]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2011/11/01/pittsburgh-classical-guitar-society-and-a-los-romeros-workshop-part-1/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2011/11/01/pittsburgh-classical-guitar-society-and-a-los-romeros-workshop-part-1/"/>
     <updated>2011-11-01T09:45:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2011/11/01/pittsburgh-classical-guitar-society-and-a-los-romeros-workshop-part-1</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2011/11/01/pittsburgh-classical-guitar-society-and-a-los-romeros-workshop-part-1</id>
     <content type="html"><![CDATA[<p>I&#8217;m planning to visit my family in Pittsburgh, PA over Thanksgiving this year. I was wondering if there might be any classical guitar concerts to attend while I&#8217;m there, and while searching for that, I discovered that Pittsburgh now has a <a href="http://chadbecks.com/tag/pittsburgh-classical-guitar/">classical guitar society</a>. I&#8217;m surprised it didn&#8217;t already have one, but I&#8217;m pleased to see that it does now.</p>
 
 <p>Several years ago, when I was living in California, I flew to Pittsburgh to attend a Los Romeros concert with my dad (who has been a fan of them for as long as I can remember) and to go to a workshop that they were giving the next day. I thought it was to be a masterclass, but it was really more of a lecture/demonstration. I was surprised by how many guitarists attended, but when Pepe asked if anyone would like to play something, nobody volunteered at first. So, nervous novice that I was, I volunteered and played the first movement of La Catedral. I&#8217;d planned to play the whole thing, figuring that nobody else wanted to play, but near the end of the prelude, Pepe&#8217;s cell phone rang. He was embarrassed that it happened, and I wasn&#8217;t really upset, but my playing kind of fell apart and I ended with the prelude.</p>
@@ -266,9 +266,9 @@ I think he has a fair point. Etudes may not be &#8220;appropriate for the concer
   
   <entry>
     <title type="html"><![CDATA[Playing on the beat]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2011/10/01/playing-on-the-beat/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2011/10/01/playing-on-the-beat/"/>
     <updated>2011-10-01T08:56:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2011/10/01/playing-on-the-beat</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2011/10/01/playing-on-the-beat</id>
     <content type="html"><![CDATA[<p>I&#8217;ve been working recently on learning to play &#8216;drums&#8217; on a midi keyboard, for a recording project. I haven&#8217;t seriously played a keyboard instrument since I was 8, so I have no real keyboard technique, and seeing my notes appear on screen piano-roll-style made it obvious that I was playing ahead of the beat all the time. This could easily be fixed after the fact, but I knew I&#8217;d be happier if I could get it right from the beginning.</p>
 
 <p>As a quick aside, getting it right doesn&#8217;t mean every note has to be squarely on the beat. That goes for classical guitar too, as my teacher frequently reminds me.</p>
@@ -285,9 +285,9 @@ I think he has a fair point. Etudes may not be &#8220;appropriate for the concer
   
   <entry>
     <title type="html"><![CDATA[Making art vs. making pretty pictures]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2011/09/09/making-art-vs-making-pretty-pictures/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2011/09/09/making-art-vs-making-pretty-pictures/"/>
     <updated>2011-09-09T16:21:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2011/09/09/making-art-vs-making-pretty-pictures</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2011/09/09/making-art-vs-making-pretty-pictures</id>
     <content type="html"><![CDATA[<iframe align="left" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=willisguitabl-20&amp;o=1&amp;p=8&amp;l=bpl&amp;asins=0312427719&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="align: left; height: 245px; padding-right: 10px; padding-top: 5px; width: 131px;"></iframe>
 
 
@@ -305,9 +305,9 @@ I think he has a fair point. Etudes may not be &#8220;appropriate for the concer
   
   <entry>
     <title type="html"><![CDATA[My new old routine]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2011/09/02/my-new-old-routine/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2011/09/02/my-new-old-routine/"/>
     <updated>2011-09-02T08:58:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2011/09/02/my-new-old-routine</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2011/09/02/my-new-old-routine</id>
     <content type="html"><![CDATA[<p>Since I moved to Tulsa, I&#8217;d been busy with job hunting and then job doing, and I haven&#8217;t had much inspiration for blogging. For a while, I felt like I was losing a lot of ground with the guitar itself, so I went back to my old routine of getting up early to practice before work. It worked for me pretty well, the last time I work working a full-time job.</p>
 
 <p>Long story short, my playing sprang back up to normal and I&#8217;m making progress again. My 9-month long memorization block went away and I&#8217;m learning new repertoire quickly again.</p>
@@ -320,9 +320,9 @@ I think he has a fair point. Etudes may not be &#8220;appropriate for the concer
   
   <entry>
     <title type="html"><![CDATA[More thoughts on Effortless Mastery]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2011/08/05/more-thoughts-on-effortless-mastery/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2011/08/05/more-thoughts-on-effortless-mastery/"/>
     <updated>2011-08-05T17:00:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2011/08/05/more-thoughts-on-effortless-mastery</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2011/08/05/more-thoughts-on-effortless-mastery</id>
     <content type="html"><![CDATA[<p>Life has been busy recently, unfortunately full of real-world work, and not a whole lot of time for music. As I often do in these times, I&#8217;m still practicing guitar regularly but focusing on one just thing. This time, it is effortlessness.</p>
 
 <p>It took me a really long time to figure out that the way to play effortlessly is not to struggle with material until it becomes easy and effortless. To date, that method has never worked for me.
@@ -346,9 +346,9 @@ The message of Kenny Werner&#8217;s excellent &#8220;Effortless Mastery&#8221; b
   
   <entry>
     <title type="html"><![CDATA[A film about Leo Brouwer]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2011/07/22/a-film-about-leo-brouwer/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2011/07/22/a-film-about-leo-brouwer/"/>
     <updated>2011-07-22T05:00:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2011/07/22/a-film-about-leo-brouwer</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2011/07/22/a-film-about-leo-brouwer</id>
     <content type="html"><![CDATA[<p>Youtube user elduendecillo07 uploaded this fascinating documentary on Leo Brouwer. I&#8217;ve created a playlist that should play them all in order. There&#8217;s a lot discussion of style and ideas, plus many clips of him playing his own music and others&#8217;.</p>
 
 <p>Not everyone loves Brouwer&#8217;s music, but to me he is one of the greatest composers of our era for any instrument. I got hooked on classical guitar when I first heard a classmate play Brouwer&#8217;s Etude #1. I come back to his Estudios Sencillos once or twice a year, always trying to play them better and discover more in them.</p>
@@ -362,9 +362,9 @@ The message of Kenny Werner&#8217;s excellent &#8220;Effortless Mastery&#8221; b
   
   <entry>
     <title type="html"><![CDATA[William Kanengiser masterclass notes, part 4]]></title>
-    <link href="http://william.bajzek.com/octo/blog/2011/07/15/william-kanengiser-masterclass-notes-part-4/"/>
+    <link href="http://wbajzek.github.com/cgtulsa/blog/2011/07/15/william-kanengiser-masterclass-notes-part-4/"/>
     <updated>2011-07-15T05:00:00-05:00</updated>
-    <id>http://william.bajzek.com/octo/blog/2011/07/15/william-kanengiser-masterclass-notes-part-4</id>
+    <id>http://wbajzek.github.com/cgtulsa/blog/2011/07/15/william-kanengiser-masterclass-notes-part-4</id>
     <content type="html"><![CDATA[<p>The final performer at the William Kanengiser masterclass I&#8217;ve been writing about played the fourth movement of Castelnuovo-Tedesco&#8217;s Homage to Boccherini. Kanengiser offered some thoughts particular to Tedesco&#8217;s writing. It&#8217;s often said that the guitar should be treated like a miniature orchestra, because of the wealth of tone colors it offers us, and that idea is especially applicable to a composer like Tedesco who was very much an orchestral composer. He was also very particular about how he used dynamics and articulations.</p>
 
 <p>The rest of the feedback given to this performer was of a technical nature, so I&#8217;m going to conclude this series of posts by gathering together all the technical and miscellaneous suggestions that were offered during the masterclass.</p>
