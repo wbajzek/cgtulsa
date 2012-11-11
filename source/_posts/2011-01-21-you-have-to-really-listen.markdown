@@ -2,6 +2,7 @@
 layout: post
 title: "You have to REALLY listen"
 date: 2011-01-21T05:00:00-06:00
+comments: true
 ---
 
 > "Concerts undoubtedly have great value in developing the student technically and mentally; but too often they have a directly contrary effect. I think there is a very doubtful benefit to be derived from the present habit, as illustrated in New York, London, or other centers, of the student attending concerts, sometimes as many as two or three a day. This habit dwarfs the development of real appreciation, as the student, under these conditions, can little appreciate true works of art when he has crammed his head so full of truck, and worn out his faculties of concentration until listening to music becomes a mechanical mental process. The _indiscriminate_ attending of concerts, to my mind, has an absolutely pernicious effect on the student."

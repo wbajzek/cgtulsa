@@ -2,6 +2,7 @@
 layout: post
 title: "Why every musician should compose"
 date: 2010-11-26T10:00:00-06:00
+comments: true
 ---
 
 <span class="f"><cite></cite></span>Composing is a discovery process. When you compose even a bit, you learn about what goes through composers heads when they compose, and you will learn to interpret their music better. You will learn what makes music work (or not work). 

@@ -2,6 +2,7 @@
 layout: post
 title: "Wooten's metronome games"
 date: 2011-02-04T05:00:00-06:00
+comments: true
 ---
 
 Philip Hii's been <a href="http://philiphii.com/2011/01/rhythm/">writing about rhythm a lot on his blog</a> lately, and so I feel like it's a good time to work on my rhythm (it's always a good time to work on rhythm). I think I have pretty good rhythm, but I would rather **leave no room for doubt** about it. 

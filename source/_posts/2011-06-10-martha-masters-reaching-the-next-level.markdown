@@ -2,6 +2,7 @@
 layout: post
 title: "Martha Masters: Reaching the Next Level"
 date: 2011-06-10T05:00:00-05:00
+comments: true
 ---
 
 <iframe align="left" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=willisguitabl-20&amp;o=1&amp;p=8&amp;l=bpl&amp;asins=0786679816&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="align: left; height: 245px; padding-right: 10px; padding-top: 5px; width: 131px;"></iframe>Before beginning my video project in April, I went to <a href="http://rosewoodguitar.com/">Rosewood Guitar</a> in Seattle and told their employee Robert that I was looking for some music I could easily work up and record in a day. It had to be fairly straightforward and, almost more importantly, it needed to not require page turns.

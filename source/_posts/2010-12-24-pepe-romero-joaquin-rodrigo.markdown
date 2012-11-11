@@ -2,6 +2,7 @@
 layout: post
 title: "Pepe Romero & Joaquin Rodrigo"
 date: 2010-12-24T05:00:00-06:00
+comments: true
 ---
 
 Here are some videos which are somewhat buried on Youtube, that I find inspiring and insightful. Both feature Pepe Romero and Joaquin Rodrigo, a look into their working relationship, and a bit of the creative process behind these works.

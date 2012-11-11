@@ -2,6 +2,7 @@
 layout: post
 title: "Between the notes"
 date: 2011-04-01T05:00:00-05:00
+comments: true
 ---
 
 We need to develop technique so we can communicate with our listeners. We often get caught up in what is cool, or difficult, or whatever, but that's not really worth much if it doesn't help us communicate.

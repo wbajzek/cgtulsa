@@ -2,6 +2,7 @@
 layout: post
 title: "William Kanengiser masterclass notes, part 4"
 date: 2011-07-15T05:00:00-05:00
+comments: true
 ---
 
 The final performer at the William Kanengiser masterclass I've been writing about played the fourth movement of Castelnuovo-Tedesco's Homage to Boccherini. Kanengiser offered some thoughts particular to Tedesco's writing. It's often said that the guitar should be treated like a miniature orchestra, because of the wealth of tone colors it offers us, and that idea is especially applicable to a composer like Tedesco who was very much an orchestral composer. He was also very particular about how he used dynamics and articulations.

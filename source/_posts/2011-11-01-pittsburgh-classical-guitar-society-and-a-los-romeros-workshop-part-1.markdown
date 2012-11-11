@@ -2,6 +2,7 @@
 layout: post
 title: "Pittsburgh Classical Guitar Society, and a Los Romeros workshop (part 1)"
 date: 2011-11-01T09:45:00-05:00
+comments: true
 ---
 
 I'm planning to visit my family in Pittsburgh, PA over Thanksgiving this year. I was wondering if there might be any classical guitar concerts to attend while I'm there, and while searching for that, I discovered that Pittsburgh now has a <a href="http://chadbecks.com/tag/pittsburgh-classical-guitar/">classical guitar society</a>. I'm surprised it didn't already have one, but I'm pleased to see that it does now.

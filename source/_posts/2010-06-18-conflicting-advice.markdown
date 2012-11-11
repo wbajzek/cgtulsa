@@ -2,6 +2,7 @@
 layout: post
 title: "Conflicting advice"
 date: 2010-06-18T10:27:00-05:00
+comments: true
 ---
 
 This is a tricky one. I have a moderate-sized collection of guitar method books, which I like because there's always something interesting to learn from a good one. Sometimes just one new insight can make it worthwhile. 

@@ -2,6 +2,7 @@
 layout: post
 title: "Video project"
 date: 2011-04-15T05:00:00-05:00
+comments: true
 ---
 
 As I've mentioned before, I am working on a project to make a video every day (when possible) for the rest of April 2011. I'm having a **great **time with it, and heartily encourage others to give it a try. <a href="http://www.youtube.com/user/wbajzek#grid/user/CCBF8167D9AD5621">Here's a link to my Youtube playlist for this project</a>. I invite you to subscribe to my channel!

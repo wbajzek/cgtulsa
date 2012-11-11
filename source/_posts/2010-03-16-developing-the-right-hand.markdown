@@ -2,6 +2,7 @@
 layout: post
 title: "Developing the right hand"
 date: 2010-03-16T11:23:00-05:00
+comments: true
 ---
 
 I found some pieces recently I would like to learn with tremolo passages, but I've never had a good tremolo in spite of years of attempting various techniques for working on it. My new theory is that I need to develop the weaker side of my hand, and I've come up with a good way to work on that which is working great so far. 

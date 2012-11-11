@@ -2,6 +2,7 @@
 layout: post
 title: "Electric guitar, part 2"
 date: 2010-11-05T12:31:00-05:00
+comments: true
 ---
 
 It's quite a different experience, beginning again but with so  many years of music experience behind me. It's not quite as fun as being a kid making loud noise for the first time but it's a lot more satisfying. Back then, I started off trying to learn Classical Gas on my  mom's nylon string guitar to convince my parents they should buy me an  electric guitar (which they did, even though my Classical Gas was  unrecognizable), then a pile of guitar magazines and a vague sense of music carried me on from there.

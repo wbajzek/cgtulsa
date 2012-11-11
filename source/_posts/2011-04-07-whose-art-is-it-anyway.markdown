@@ -2,6 +2,7 @@
 layout: post
 title: "Whose art is it anyway?"
 date: 2011-04-07T05:00:00-05:00
+comments: true
 ---
 
 Take a piece like Villa Lobos's Prelude #3, and compare several recordings of it to the score if you have it. There is a sort of "traditional" interpretation of this piece, in which performances tend to follow a similar (to each other) contour of dynamics and rubato, to the point where the rhythms you will hear no longer really resemble what the composer notated.

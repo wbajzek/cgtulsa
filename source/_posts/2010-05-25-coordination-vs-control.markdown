@@ -2,6 +2,7 @@
 layout: post
 title: "Coordination vs control"
 date: 2010-05-25T15:32:00-05:00
+comments: true
 ---
 
 Today I managed to increase my scale speed by nearly 20%. I've done a lot of right hand work lately, but what seems to have done it today is a shift in thinking, to use relaxed sympathetic motion instead of trying to 'activate' the fingers individually. In other words, instead of thinking of i&amp;m alternating, to move them as a unit led by one or the other, and conceptually, aiming for relaxed coordination rather than exerted control.

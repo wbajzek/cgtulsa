@@ -2,6 +2,7 @@
 layout: post
 title: "William Kanengiser masterclass notes, part 2"
 date: 2011-07-01T05:00:00-05:00
+comments: true
 ---
 
 Continuing on from last week's post... Looking at the notes again, I was impressed by how much time <a href="http://www.kanengiser.com/">William Kanengiser</a> devoted to musical issues versus purely technical ones. I've decided to write this up in multiple parts, which will cover all the musical issues first and the final will cover technical and other miscellaneous ones.

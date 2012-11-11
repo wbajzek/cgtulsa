@@ -2,6 +2,7 @@
 layout: post
 title: "William Kanengiser masterclass notes, part 3"
 date: 2011-07-08T05:00:00-05:00
+comments: true
 ---
 
 Continuing on from my notes from a masterclass given by William Kanengiser in San Jose, back in 2007 or 2008.

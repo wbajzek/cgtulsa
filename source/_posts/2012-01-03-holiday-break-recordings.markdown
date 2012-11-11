@@ -2,6 +2,7 @@
 layout: post
 title: "Holiday break recordings"
 date: 2012-01-03T09:52:00-06:00
+comments: true
 ---
 
 I recorded three videos last week during the holiday break. Having a full-time job again and students in the evenings, I haven't had enough practice time to maintain any repertoire. However, I've found that spending an hour in front of the camera is one of the best and quickest ways to improve my playing.

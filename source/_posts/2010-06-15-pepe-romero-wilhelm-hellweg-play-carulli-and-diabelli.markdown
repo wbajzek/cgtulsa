@@ -2,6 +2,7 @@
 layout: post
 title: "Pepe Romero & Wilhelm Hellweg play Carulli and Diabelli"
 date: 2010-06-15T18:00:00-05:00
+comments: true
 ---
 
 <a href="http://web.mac.com/musicksmonumentbergh/audio/Pepe_Romero_&amp;_Wilhelm_Hellweg_.html">This is a recording I really love. </a>

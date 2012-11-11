@@ -2,6 +2,7 @@
 layout: post
 title: "Something different: recording the guitar at home"
 date: 2010-09-23T15:33:00-05:00
+comments: true
 ---
 
 I felt like I needed to do some recording, to try to get more gigs, so I started working on that this week. Recording guitar is tricky, especially at home and on a limited budget. I record using my <a href="http://www.amazon.com/Roland-Edirol-R-09HR-High-Resolution-Recorder/dp/B002UI2W8S?ie=UTF8&amp;tag=willisguitabl-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">Edirol R-09HR</a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=willisguitabl-20&amp;l=btl&amp;camp=213689&amp;creative=392969&amp;o=1&amp;a=B002UI2W8S" style="border: medium none ! important; margin: 0px ! important; padding: 0px ! important;" width="1" />, which is incredibly handy and easy to use. I think it's a great field recorder, but I haven't been happy with its internal mics for recording guitar. Let's face it, the guitar's just not all that loud, and so you either need very sensitive mics, or you need to mic the instrument really closely. These things have resulted in too much background noise, or an unnatural guitar sound.

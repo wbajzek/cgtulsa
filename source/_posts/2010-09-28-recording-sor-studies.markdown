@@ -2,6 +2,7 @@
 layout: post
 title: "Recording: Sor Studies"
 date: 2010-09-28T13:45:00-05:00
+comments: true
 ---
 
 I want to make a point of recording myself more often and getting comfortable in front of a mic, so I am planning to record something at least once a week when possible. Today, I sat down with my book of <a href="http://www.amazon.com/Mel-Bay-Complete-Studies-Guitar/dp/1562229478?ie=UTF8&amp;tag=willisguitabl-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">Sor Studies</a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=willisguitabl-20&amp;l=btl&amp;camp=213689&amp;creative=392969&amp;o=1&amp;a=1562229478" style="border: medium none ! important; margin: 0px ! important; padding: 0px ! important;" width="1" /> and recorded a few that I have worked on occasionally. I've never really tried to memorize these studies, but I have worked on more than half of them in the book and I like to just come back to them from time to time and apply whatever new things I've learned since the last time. They're perpetually works in progress for me, but I am not particularly interested in performing them so I just use them to see how I'm doing. There's always something new to discover in them, and there's an awful lot of them, so I consider it one of the best bang-for-buck guitar books I've ever bought. 

@@ -2,6 +2,7 @@
 layout: post
 title: "Playing on the beat"
 date: 2011-10-01T08:56:00-05:00
+comments: true
 ---
 
 I've been working recently on learning to play 'drums' on a midi keyboard, for a recording project. I haven't seriously played a keyboard instrument since I was 8, so I have no real keyboard technique, and seeing my notes appear on screen piano-roll-style made it obvious that I was playing ahead of the beat all the time. This could easily be fixed after the fact, but I knew I'd be happier if I could get it right from the beginning.

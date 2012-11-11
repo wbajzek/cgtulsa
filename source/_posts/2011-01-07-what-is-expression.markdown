@@ -2,6 +2,7 @@
 layout: post
 title: "What is expression?"
 date: 2011-01-07T05:00:00-06:00
+comments: true
 ---
 
 > Breaking rules for the sake of breaking rules isn’t usually art; it’s just anarchy. And following rules for the sake of following rules is just mindless conformity.

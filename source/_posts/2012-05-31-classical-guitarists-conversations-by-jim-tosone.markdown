@@ -2,6 +2,7 @@
 layout: post
 title: "Classical Guitarists: Conversations by Jim Tosone"
 date: 2012-05-31T16:05:00-05:00
+comments: true
 ---
 
 I recently ran across the book <a href="http://www.amazon.com/gp/product/0786408138/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;tag=willisguitabl-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0786408138">"Classical Guitarists: Conversations" by Jim Tosone</a> and was surprised I hadn't heard about it before. It features interviews with many prominent classical guitarists and composers, and they all go into greater depth than one typically finds in an artist interview.

@@ -2,6 +2,7 @@
 layout: post
 title: "Trust yourself"
 date: 2011-02-18T05:00:00-06:00
+comments: true
 ---
 
 Peter Mitchell commented on <a href="http://williamsguitarblog.blogspot.com/2011/01/you-have-to-really-listen.html">my "You have to really listen" post</a>:

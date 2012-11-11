@@ -2,6 +2,7 @@
 layout: post
 title: "Unforgiving"
 date: 2011-06-17T05:00:00-05:00
+comments: true
 ---
 
 After doing some maintenance on my guitar this week, I put on a new set of strings, of a type I hadn't used before. I'm not going to tell you what they are, but they are much lower tension than I normally use on my guitar.

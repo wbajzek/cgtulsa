@@ -2,6 +2,7 @@
 layout: post
 title: "Making art vs. making pretty pictures"
 date: 2011-09-09T16:21:00-05:00
+comments: true
 ---
 
 <iframe align="left" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=willisguitabl-20&amp;o=1&amp;p=8&amp;l=bpl&amp;asins=0312427719&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="align: left; height: 245px; padding-right: 10px; padding-top: 5px; width: 131px;"></iframe>

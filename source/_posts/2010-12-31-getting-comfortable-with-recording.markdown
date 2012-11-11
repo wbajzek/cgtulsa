@@ -2,6 +2,7 @@
 layout: post
 title: "Getting comfortable with recording"
 date: 2010-12-31T05:00:00-06:00
+comments: true
 ---
 
 It's often said that you get used to recording by recording more. While that's kind of true, it's not very helpful to look at it that way. If you feel miserable every time you record, recording 100 times isn't likely to make you happy. 

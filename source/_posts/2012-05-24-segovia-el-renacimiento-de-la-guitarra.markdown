@@ -2,6 +2,7 @@
 layout: post
 title: "Segovia: El Renacimiento de la Guitarra"
 date: 2012-05-24T09:18:00-05:00
+comments: true
 ---
 
 An hour long documentary on Segovia. It's in Spanish, but features lots of performances.

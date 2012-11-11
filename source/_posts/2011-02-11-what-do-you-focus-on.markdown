@@ -2,6 +2,7 @@
 layout: post
 title: "What do you focus on?"
 date: 2011-02-11T05:00:00-06:00
+comments: true
 ---
 
 I managed to smash my left middle finger in the bathroom door on Monday night. I'm not sure how it happened, but I came out of it with a small cut and a numb fingertip. Yuck!

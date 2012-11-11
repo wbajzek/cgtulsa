@@ -2,6 +2,7 @@
 layout: post
 title: "William Kanengiser masterclass notes, part 1"
 date: 2011-06-24T05:00:00-05:00
+comments: true
 ---
 
 I was looking through an old notebook this morning and found notes I took at a masterclass <a href="http://www.kanengiser.com/">William Kanengiser</a> gave in San Jose, CA two or three years ago as part of the Suzuki convention. My notes were hastily written and not terribly detailed, but I'll use them to jog my memory and fill in what I can regarding topics that are generally applicable. Apologies if I've misinterpreted my memory from that far back, but I'll do the best I can. :)

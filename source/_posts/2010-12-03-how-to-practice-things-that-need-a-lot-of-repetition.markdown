@@ -2,6 +2,7 @@
 layout: post
 title: "How to practice things that need a lot of repetition"
 date: 2010-12-03T10:00:00-06:00
+comments: true
 ---
 
 Some things you practice may require a lot of repetition to train your muscle memory. It's tempting to just keep repeating an exercise thinking you're going to build up strength, but little errors will compound and turn your playing to mush.

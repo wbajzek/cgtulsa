@@ -2,6 +2,7 @@
 layout: post
 title: "Things that bear repeating..."
 date: 2010-07-16T18:38:00-05:00
+comments: true
 ---
 
 I just read <a href="http://kc0dxf.net/serendipity/index.php?/archives/18-Jorge-Caballero-Concert-and-Workshop.html">a nice blog post</a> from <a href="http://kc0dxf.net/blog/">Bob Wooldridge</a> about a concert and workshop given by <a href="http://www.jcaballeroguitar.com/pages/index.php">Jorge Caballero</a> at the GFA convention. There was a nice quote in it:

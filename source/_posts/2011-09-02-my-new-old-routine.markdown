@@ -2,6 +2,7 @@
 layout: post
 title: "My new old routine"
 date: 2011-09-02T08:58:00-05:00
+comments: true
 ---
 
 Since I moved to Tulsa, I'd been busy with job hunting and then job doing, and I haven't had much inspiration for blogging. For a while, I felt like I was losing a lot of ground with the guitar itself, so I went back to my old routine of getting up early to practice before work. It worked for me pretty well, the last time I work working a full-time job.

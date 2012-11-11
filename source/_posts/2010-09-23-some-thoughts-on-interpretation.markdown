@@ -2,6 +2,7 @@
 layout: post
 title: "Some thoughts on interpretation"
 date: 2010-09-23T16:14:00-05:00
+comments: true
 ---
 
 I've been playing Heitor Villa-Lobos's Prelude 3 for about 3 months now. You can hear this morning's recording of it in my previous post; usually I play it twice (as written) but it's a tricky piece to pull off that way. I read a quote recently (I think) from Antigoni Goni, which I can no longer find, where she said something to the effect of, "when part of a piece repeats, just as we are all changed by the passage of time." I think she's a real master of this idea, by the way; I am very fond of her recordings and it sounds to me like she never plays anything the same way twice. Every repeated section has some new facet or insight.

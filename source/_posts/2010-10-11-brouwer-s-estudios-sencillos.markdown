@@ -2,6 +2,7 @@
 layout: post
 title: "Brouwer's Estudios Sencillos"
 date: 2010-10-11T10:07:00-05:00
+comments: true
 ---
 
 This is a quick buyer-beware; you can still find the Brouwer studies in 4 short, very expensive volumes in lots of music stores. You can also find ALL 20 of them, plus a bunch of other great music he wrote, in one book, for the price of one of the individual volumes.

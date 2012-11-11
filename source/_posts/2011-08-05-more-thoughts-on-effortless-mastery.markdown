@@ -2,6 +2,7 @@
 layout: post
 title: "More thoughts on Effortless Mastery"
 date: 2011-08-05T17:00:00-05:00
+comments: true
 ---
 
 Life has been busy recently, unfortunately full of real-world work, and not a whole lot of time for music. As I often do in these times, I'm still practicing guitar regularly but focusing on one just thing. This time, it is effortlessness.

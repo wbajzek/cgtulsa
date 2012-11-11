@@ -2,6 +2,7 @@
 layout: post
 title: "Making changes"
 date: 2011-03-18T05:00:00-05:00
+comments: true
 ---
 
 After giving a house concert in Seattle a few weeks ago (big thanks to <a href="http://rich-golf.blogspot.com/">Rich</a> for hosting!), once of the audience members said to me, "that Bach suite must have taken forever to learn."

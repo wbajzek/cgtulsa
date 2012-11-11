@@ -2,6 +2,7 @@
 layout: post
 title: "New book by Jean-Francois Desrosby"
 date: 2012-04-15T10:45:00-05:00
+comments: true
 ---
 
 <iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://rcm.amazon.com/e/cm?t=willisguitabl-20&amp;o=1&amp;p=8&amp;l=as1&amp;asins=2981287826&amp;ref=qf_sp_asin_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="height: 240px; width: 120px; float:left; margin-right:10px"></iframe>

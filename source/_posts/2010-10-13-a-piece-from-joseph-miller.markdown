@@ -2,6 +2,7 @@
 layout: post
 title: "A piece from Joseph Miller"
 date: 2010-10-13T23:07:00-05:00
+comments: true
 ---
 
 I found this while searching SoundCloud for classical guitar. I have worked with some students in a class I TA'd for a while on this piece, and I thought it was kind of nice but failed to really appreciate it until I heard this recording. I know nothing about this Joseph Miller guy, but I enjoyed his recordings. Check him out.

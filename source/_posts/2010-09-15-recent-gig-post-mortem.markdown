@@ -2,6 +2,7 @@
 layout: post
 title: "Recent gig post-mortem"
 date: 2010-09-15T01:58:00-05:00
+comments: true
 ---
 
 I gave a couple of solo performances this past weekend, for the first time in a few years. They went great! The first was as background music for a reception at my local library. It sort of fell out of the sky for me, was a nice warm-up opportunity for me as it happened to be on the night before my scheduled recital. Aside from the incredible hospitality of my hosts, I had some nice comments from the attendees, and found that many of them gathered around me rather than away from me. Always a good sign! Background music gigs are sometimes a bit awkward but I was made to feel very welcome.

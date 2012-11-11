@@ -2,6 +2,7 @@
 layout: post
 title: "Quick tip"
 date: 2011-05-27T05:00:00-05:00
+comments: true
 ---
 
 Sorry for missing a few weeks of blogging. With a funeral to attend, a 5-day drive from my old home of Mount Vernon, WA to my new home in Tulsa, OK, then unpacking and getting my bearings, I haven't had much time to think about blogging. I promise to get back to it ASAP.

@@ -2,6 +2,7 @@
 layout: post
 title: "Why you should perform"
 date: 2011-03-25T05:00:00-05:00
+comments: true
 ---
 
 > But actually, doing what other people expect you to is what’s overrated. The  external rewards for pursuing a dream may or may not arrive, but  regardless, you should feel proud of doing so. The first steps are more  important than the later ones, because they’ll provide inspiration and  security for everything that comes later. Just keep walking! 

@@ -2,6 +2,7 @@
 layout: post
 title: "Easy and simple aren't the same thing"
 date: 2011-02-25T05:00:00-06:00
+comments: true
 ---
 
 This past weekend I went to the <a href="http://seannos.org/">Sean Nós Northwest</a> festival at The Evergreen State College in Olympia, WA, and played an awful lot of irish flute. This festival is a great celebration of Irish language, song, and dance, and so there were few instrumentalists there but we were treated with especially great respect and gratitude by the dancers.

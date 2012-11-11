@@ -2,6 +2,7 @@
 layout: post
 title: "A bit of a rant"
 date: 2012-06-01T20:56:00-05:00
+comments: true
 ---
 
 One thing that has always frustrated me about classical guitar is something that many people find to be one of its primary assets. I've lost count of how many times someone has said to me, "oh, I love classical guitar! It's so soothing!"

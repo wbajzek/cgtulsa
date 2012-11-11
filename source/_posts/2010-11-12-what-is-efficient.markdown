@@ -2,6 +2,7 @@
 layout: post
 title: "What is efficient?"
 date: 2010-11-12T11:09:00-06:00
+comments: true
 ---
 
 > "When working on the exercises, the guitarist must keep in mind the  fact that mechanical repetition is worthless. Every time an exercise is  repeated one must consciously correct and/or improve upon the previous  playing." 

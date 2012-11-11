@@ -2,6 +2,7 @@
 layout: post
 title: "Electric guitar, part 1"
 date: 2010-10-29T12:56:00-05:00
+comments: true
 ---
 
 Earlier this week, I gave in to a long-suppressed urge and traded my flamenco guitar for an electric (thanks to Craigslist and Jason at the Shred Shed!). I'm not even sure yet what I am going to do with it. I don't even have an amp yet, so I've been playing it through <a href="http://www.native-instruments.com/en/products/producer/guitar-rig-4-player/">Guitar Rig Player</a> on my MacBook.

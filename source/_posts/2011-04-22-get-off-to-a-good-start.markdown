@@ -2,6 +2,7 @@
 layout: post
 title: "Get off to a good start"
 date: 2011-04-22T05:00:00-05:00
+comments: true
 ---
 <iframe width="420" height="315" src="http://www.youtube.com/embed/0UDNigGvxAk" frameborder="0" allowfullscreen></iframe>
 I've discovered through my video project that I've been able to play (and record) pieces that I've worked on for only a day as well or better than ones I've worked on for months or years. It's not comfortable to admit that, but now that I know this, I can make progress and hopefully help others who are in the same boat.

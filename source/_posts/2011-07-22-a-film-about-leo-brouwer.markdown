@@ -2,6 +2,7 @@
 layout: post
 title: "A film about Leo Brouwer"
 date: 2011-07-22T05:00:00-05:00
+comments: true
 ---
 
 Youtube user elduendecillo07 uploaded this fascinating documentary on Leo Brouwer. I've created a playlist that should play them all in order. There's a lot discussion of style and ideas, plus many clips of him playing his own music and others'.

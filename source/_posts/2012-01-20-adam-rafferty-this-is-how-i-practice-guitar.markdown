@@ -2,6 +2,7 @@
 layout: post
 title: "Adam Rafferty: This is how I practice guitar"
 date: 2012-01-20T11:35:00-06:00
+comments: true
 ---
 
 Thanks to my friend <a href="http://www.celticfingerstyleguitar.com/">Anton Emery</a>, I just read fingerstyle guitarist Adam Rafferty's <a href="http://adamrafferty.wordpress.com/2012/01/20/this-is-how-i-practice-guitar/">nice blog post about how he practices guitar</a>, in which he says:

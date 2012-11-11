@@ -2,6 +2,7 @@
 layout: post
 title: "Louis Drouët: On the Method of Finishing a Piece"
 date: 2011-01-14T05:00:00-06:00
+comments: true
 ---
 
 Some food for thought today culled from Louis Drouët's 1830 method for playing the flute. I left the pre-Victorian ESL wording alone, because I find it amusing, but the advice is good:

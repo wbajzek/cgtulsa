@@ -2,6 +2,7 @@
 layout: post
 title: "Los Romeros workshop (part 2): Etudes and repertoire"
 date: 2011-11-04T05:00:00-05:00
+comments: true
 ---
 
 I'm not going to be able to offer a whole lot of detail directly from a workshop I took no notes on, but I will offer a few highlights that I can recall and my own thoughts on those topics.

@@ -2,6 +2,7 @@
 layout: post
 title: "See you next week"
 date: 2011-05-06T00:58:00-05:00
+comments: true
 ---
 I'm traveling on family business right now and am not prepared to write a post... So here's one of my favorite videos on Youtube, of Rolf Lislevand playing a Chaconne by de Visee on Theorbo.
 

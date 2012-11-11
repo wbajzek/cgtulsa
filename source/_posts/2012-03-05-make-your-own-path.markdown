@@ -2,6 +2,7 @@
 layout: post
 title: "Make your own path"
 date: 2012-03-05T10:22:00-06:00
+comments: true
 ---
 
 I'm not sure what made me think of this, but a while back (it must have been a long time, since it has been several months since I removed myself from internet forums in order to enjoy my life more) maybe a year or two I remember someone saying he planned to spend the next year immersing himself in the music of one composer. The responses varied, but I believe the general feeling was that in the interest of being a well-rounded musician, this was not a good idea.

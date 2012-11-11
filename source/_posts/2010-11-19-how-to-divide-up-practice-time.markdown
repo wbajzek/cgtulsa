@@ -2,6 +2,7 @@
 layout: post
 title: "How to divide up practice time"
 date: 2010-11-19T11:19:00-06:00
+comments: true
 ---
 
 **Dividing up practice time** 

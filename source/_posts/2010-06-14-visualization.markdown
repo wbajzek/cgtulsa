@@ -2,6 +2,7 @@
 layout: post
 title: "Visualization"
 date: 2010-06-14T16:17:00-05:00
+comments: true
 ---
 
 This topic comes up an awful lot, and I'm not going to go into too much detail about the process, per se. <a href="http://www.egta.co.uk/content/visualization">Here is a good article on it</a> from Richard Provost's book <a href="http://www.amazon.com/Technique-Practice-Music-Sales-America/dp/096278320X?ie=UTF8&amp;tag=willisguitabl-20&amp;link_code=btl&amp;camp=213689&amp;creative=392969" target="_blank">The Art and Technique of Practice</a> to get you started if you don't know what I mean.

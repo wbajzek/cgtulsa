@@ -2,6 +2,7 @@
 layout: post
 title: "Sustained notes within a line"
 date: 2011-04-29T05:00:00-05:00
+comments: true
 ---
 
 This has come up a few times for me recently, and while it's not an original idea, I thought I'd share it for those who don't know about it.

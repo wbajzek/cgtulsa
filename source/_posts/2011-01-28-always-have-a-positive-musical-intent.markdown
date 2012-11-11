@@ -2,6 +2,7 @@
 layout: post
 title: "Always have a positive musical intent"
 date: 2011-01-28T05:00:00-06:00
+comments: true
 ---
 
 <a href="http://philiphii.com/">Philip Hii</a> has been putting up a series of posts about speed and fluidity on his "Art of Virtuosity" blog recently. They're all great, so go check them out (when you're done reading this post!).

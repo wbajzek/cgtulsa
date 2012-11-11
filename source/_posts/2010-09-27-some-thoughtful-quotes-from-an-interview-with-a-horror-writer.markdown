@@ -2,6 +2,7 @@
 layout: post
 title: "Some thoughtful quotes from an interview with a horror writer"
 date: 2010-09-27T14:45:00-05:00
+comments: true
 ---
 
 This is from <a href="http://theteemingbrain.wordpress.com/interview-with-thomas-ligotti/">an interview with Thomas Ligotti</a>, a modern horror writer who's one of my favorite authors. I think that what he has to say about writing a story applies just as well to the process of composing or studying and performing music:

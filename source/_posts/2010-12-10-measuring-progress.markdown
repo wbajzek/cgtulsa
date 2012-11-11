@@ -2,6 +2,7 @@
 layout: post
 title: "Measuring progress"
 date: 2010-12-10T12:24:00-06:00
+comments: true
 ---
 
 Tracking progress is a popular topic on guitar blogs I read. With all the day-to-day ups and downs, the best advice is to measure progress over the long term. Set some goals and work on them.
